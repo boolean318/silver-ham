@@ -27,13 +27,13 @@
 </style>
 
 <div class="container-fluid">
-  <h2 class="red-text text-center">CatPhotoApp</h2>
+  <h2 class="red-text text-center">Digital Boom Web Developers</h2>
 
-  <p>Click here for <a href="#">cat photos</a>.</p>
+  <p>Click here for <a href="#">More Info</a>.</p>
 
   <a href="#"><img class="smaller-image thick-green-border" src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back. "></a>
 
-  <img src="https://bit.ly/fcc-running-cats" class="img-responsive" alt="Three kittens running towards the camera. ">
+  <img src=https://ak5.picdn.net/shutterstock/videos/19551085/thumb/8.jpg" class="img-responsive" alt="Three kittens running towards the camera. ">
   <button class="btn btn-block btn-primary">Like</button>
   <button class="btn btn-block btn-info">Info</button>
   <p>Things cats love:</p>
